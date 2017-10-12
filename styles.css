@@ -1,0 +1,37 @@
+
+
+body {
+
+	background: lemonchiffon;
+	color: maroon;
+	font-size: 14pt;
+    font-family: serif;
+}
+
+h1 { font-size: 350%; font-style: Helvetica;
+	font-weight: bold;
+	text-decoration: underline; 
+	color: maroon;
+	
+	
+}
+
+h2 { font-size: 250%; font-style: Helvetica;
+text-decoration: underline; 
+text-decoration-style: double; 
+	
+}
+
+p { font-size: 125%; font-style: Helvetica;
+    color: maroon;
+	}
+	
+i 	{ font-size: 125%; font-style: Helvetica;
+
+      
+	  
+}
+
+a { color: maroon; font-style: Helvetica;  
+	border-style: solid; }
+
